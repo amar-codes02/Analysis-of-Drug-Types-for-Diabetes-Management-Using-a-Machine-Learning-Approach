@@ -1,5 +1,3 @@
-Here's an updated version of the README.md, reflecting that you're only using the K-Nearest Neighbors (KNN) algorithm:
-
 ---
 
 # Analysis of Drug Types for Diabetes Management Using a K-Nearest Neighbors (KNN) Approach
